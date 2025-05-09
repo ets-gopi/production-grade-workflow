@@ -9,3 +9,5 @@ Dockerfile*
 docker-compose.y*ml
 
 README.md
+
+dist/
